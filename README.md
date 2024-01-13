@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Sanchez</h1>
-<h3 align="center">22 years old, Bachelor in Information Technology Management - Enterprise Programming Technician. Front-end Developer</h3>
+<h3 align="center">23 years old, Bachelor in Information Technology Management - Enterprise Programming Technician. Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexsanchezrl&label=Profile%20views&color=0e75b6&style=flat" alt="alexsanchezrl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsanchezrl" alt="alexsanchezrl" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, React.js, Python**
+- 🌱 I’m currently learning **Node.js, React.js
 
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **react
 
 - 📫 How to reach me **maida.rodriguez.3194@gmail.com**
 
