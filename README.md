@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexsanchezrl" alt="alexsanchezrl" /></a> </p>
 
-- 🔭 I’m currently working on [HealthAndLife](https://alexsanchezrl.github.io/H-L_landingPage/)
+- 🔭 I’m currently working on [HealthAndLife](https://alexsanchezrl.github.io/H-L_landingPage/) and LatamJobs
 
 - 🌱 I’m currently learning **Typescript, React+, Node+**
 
